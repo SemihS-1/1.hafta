@@ -1,0 +1,8 @@
+değer1 = float(input("1. sayi değerini giriniz:"))
+değer2 = float(input("2. sayi değerini giriniz:"))
+print(değer1 + değer2)
+print(değer1 - değer2)
+print(değer1 * değer2)
+print(değer1 / değer2)
+print(değer1 % değer2)
+print(değer1 ** değer2)
